@@ -7,7 +7,7 @@ This project analyzes student performance data to uncover insights and trends th
 ```
 project/
 ├── data/
-├────── data.csv                # Raw dataset file
+│   ├── data.csv                # Raw dataset file
 ├── scripts/
 │   ├── data_loader.py          # Script to load and inspect the dataset
 │   ├── data_cleaner.py         # Script to clean and preprocess the dataset
