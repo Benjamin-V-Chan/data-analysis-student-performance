@@ -1,4 +1,4 @@
-# data-analysis-student-performance
+# data-science-student-performance
 
 This project analyzes student performance data to uncover insights and trends that can help improve educational outcomes. The project is structured to include scripts for data loading, cleaning, analysis, and visualization, with all results saved in an `outputs/` folder.
 
